@@ -24,8 +24,8 @@ Tooling              Linux, bash, Git / GitLab, LaTeX
 **QRNG post-processing** — *research lab, Salvador*
 Data treatment for the post-processing stage of a quantum random number generator — turning raw quantum measurements into usable, verifiable randomness. Mostly Python.
 
-**UART + PID controller in VHDL** — *personal project - starting*
-A fixed-point PID control loop on FPGA with a UART interface for tuning and telemetry, targeting low-cost hardware (Tang Nano 9K) to keep it reproducible.
+**RTL project** — *personal project - starting*
+A reconstruction of the Genius game in System Verilog based on a FSM created for this purpose.
 
 ---
 
