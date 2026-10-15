@@ -10,7 +10,7 @@ Dual degree between **UFBA** (Brazil) and **ENSEA** (France) through the CAPES-B
 
 ```text
 Embedded C / C++     STM32, ESP32, FreeRTOS, bare-metal, fixed-point arithmetic
-HDL                  VHDL, RTL design, FPGA
+HDL                  VHDL, System Verilog, RTL design, FPGA
 Python               data processing, test automation, pytest
 Hardware             PCB design, CAD, SPICE, communication buses, oscilloscopes, test benches
 Data                 SQL, Power BI, Matlab-Simulink
@@ -24,8 +24,8 @@ Tooling              Linux, bash, Git / GitLab, LaTeX
 **QRNG post-processing** — *research lab, Salvador*
 Data treatment for the post-processing stage of a quantum random number generator — turning raw quantum measurements into usable, verifiable randomness. Mostly Python.
 
-**RTL project** — *personal project - starting*
-A reconstruction of the Genius game in System Verilog based on a FSM created for this purpose.
+**Aeropêndulo** — *academic project*
+Angle control of a rod via propeller propulsion.
 
 ---
 
